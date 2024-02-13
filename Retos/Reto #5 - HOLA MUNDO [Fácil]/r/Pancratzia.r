@@ -1,1 +1,0 @@
-cat("¡Hola Mundo!\n")
